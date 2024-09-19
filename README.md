@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hiya, I'm Kenneth Andre Bettum Gjermstad 👋
+
+I'm a bachelor student currently learning Frontend- and mobile development 😎
+
+Currently I'm learning webdeveopment (HTML5, CSS3, JavaScript, React, Tailwind, Node.js, and C3), Android development with Kotlin and interaction design.
+
+Contact me on LinkedIn.
 
 <!--
 **Gjermstad/Gjermstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
