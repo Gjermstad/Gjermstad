@@ -1,10 +1,11 @@
 ## Hiya, I'm Kenneth Andre Bettum Gjermstad 👋
 
-I'm a bachelor student currently learning Frontend- and mobile development 😎
+I'm a bachelor student currently studying a bachelor in Information Technology: Frontend- and mobile development at College Kristiania in Norway 😎
 
-Currently I'm learning webdeveopment (HTML5, CSS3, JavaScript, React, Tailwind, Node.js, and C3), Android development with Kotlin and interaction design.
+Currently I'm learning web deveopment (HTML5, CSS3, JavaScript, React, Tailwind, Node.js, and C3), Android development (Kotlin and Jetpack Compose) and Interaction design (Figma and prototyping).
 
-Contact me on LinkedIn.
+#### 📫 How to reach me:
+Come in touch with me on [LinkedIn](https://www.linkedin.com/in/kennethbettumgjermstad/) ☀️
 
 <!--
 **Gjermstad/Gjermstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
