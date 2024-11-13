@@ -3,7 +3,7 @@
 
 I'm a bachelor/undergraduate student studying a bachelor in Information Technology: Frontend- and mobile development at Kristiania University College in Bergen, Norway 😎
 
-Currently I'm learning web deveopment (HTML5, CSS3, JavaScript, React, Tailwind, Node.js, and C3), Android development (Kotlin / Jetpack Compose) and Interaction design (Figma and digital prototyping).
+Currently I'm learning web deveopment (HTML5, CSS3, JavaScript, React, Tailwind, Node.js, .NET and basic C#), Android development (Kotlin / Jetpack Compose) and Interaction design (Figma and digital prototyping).
 
 #### 📫 How to reach me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kennethbettumgjermstad/)
