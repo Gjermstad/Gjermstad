@@ -5,6 +5,8 @@ I'm a bachelor/undergraduate student studying a bachelor in Information Technolo
 
 Currently I'm learning web deveopment (HTML5, CSS3, JavaScript, React, Tailwind, Node.js, .NET and basic C#), Android development (Kotlin / Jetpack Compose) and Interaction design (Figma and digital prototyping).
 
+You can see my earlier exams and mandatory assignments here: https://github.com/gjermstad-edu
+
 #### 📫 How to reach me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kennethbettumgjermstad/)
 
