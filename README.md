@@ -5,9 +5,13 @@ I'm a bachelor/undergraduate student studying a **bachelor in Information Techno
 
 Currently I'm learning to make iOS apps in SwiftUI, cross plattform apps with React Native and agile projects with Scrum.
 
-Earlier I've learned web deveopment (HTML5, CSS3, JavaScript, TypeScript, React, Tailwind, Node.js, .NET and basic C#), Android development (Kotlin / Jetpack Compose) and Interaction design (Figma and digital prototyping). Also had Python, C, Algoritms and data structures and IT project management as elective courses.
+Earlier I've learned:
+- Web deveopment (HTML5, CSS3, JavaScript, TypeScript, React, Tailwind, Node.js, .NET and basic C#)
+- Android development (Kotlin / Jetpack Compose)
+- Interaction design (Figma and digital prototyping)
+- Python, C, Algoritms & Data Structures and IT project management as elective courses.
 
-You can see my earlier exams and mandatory assignments here: https://github.com/gjermstad-edu 👈
+### Earlier exams and mandatory assignments here: https://github.com/gjermstad-edu 👈
 
 
 
