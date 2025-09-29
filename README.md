@@ -1,13 +1,17 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gjermstad)
 ## Hiya, I'm Kenneth Andre Bettum Gjermstad 👋
 
-I'm a bachelor/undergraduate student studying a bachelor in Information Technology: Frontend- and mobile development at Kristiania University College in Bergen, Norway 😎
+I'm a bachelor/undergraduate student studying a **bachelor in Information Technology: Frontend- and mobile development** at Kristiania University College in Bergen, Norway 😎
 
-Currently I'm learning web deveopment (HTML5, CSS3, JavaScript, React, Tailwind, Node.js, .NET and basic C#), Android development (Kotlin / Jetpack Compose) and Interaction design (Figma and digital prototyping).
+Currently I'm learning to make iOS apps in SwiftUI, cross plattform apps with React Native and agile projects with Scrum.
 
-You can see my earlier exams and mandatory assignments here: https://github.com/gjermstad-edu
+Earlier I've learned web deveopment (HTML5, CSS3, JavaScript, TypeScript, React, Tailwind, Node.js, .NET and basic C#), Android development (Kotlin / Jetpack Compose) and Interaction design (Figma and digital prototyping). Also had Python, C, Algoritms and data structures and IT project management as elective courses.
 
-#### 📫 How to reach me:
+You can see my earlier exams and mandatory assignments here: https://github.com/gjermstad-edu 👈
+
+
+
+#### 📫 Contact me on LinkedIn:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kennethbettumgjermstad/)
 
 ---
